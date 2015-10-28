@@ -1,8 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+Welcome to Dsine! beta.
+ this is still a work in progress, we will see where we can take it  more to come be calm and code on
 Things you may want to cover:
 
 * Ruby version
